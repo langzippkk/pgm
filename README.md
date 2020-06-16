@@ -1,4 +1,4 @@
-# pgm
+# pgm, Spring 2020 class by Professor Matthew Walter at TTIC, self-study use only
 Probabilistic graphical model
 
 
